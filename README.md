@@ -19,6 +19,7 @@ Fedora Linux:
 sudo dnf install nodejs -y
 ```
 
+Clone project:
 ```bash
 git clone <repository-url>
 cd SPF_Flatting
