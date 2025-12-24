@@ -8,6 +8,7 @@ This is a Node.js command-line tool for parsing, flattening, and verifying SPF (
 ## Installation
 
 To use the tool, you need to have Node.js and npm installed. Clone the repository and install the dependencies:
+
 Ubuntu Linux:
 ```bash
 sudo apt install nodejs npm -y
