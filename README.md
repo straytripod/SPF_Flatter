@@ -23,7 +23,6 @@ Clone project:
 ```bash
 git clone <repository-url>
 cd SPF_Flatting
-npm install
 ```
 
 ## Usage
