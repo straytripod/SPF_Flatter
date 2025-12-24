@@ -1,0 +1,20 @@
+{
+  "name": "spf_flatting",
+  "version": "1.0.0",
+  "description": "A project related to SPF flattening",
+  "main": "index.js",
+  "bin": {
+    "spf-flatting": "./cli.js"
+  },
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^6.2.1",
+    "mocha": "^11.7.5",
+    "sinon": "^21.0.0"
+  }
+}
